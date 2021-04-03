@@ -1,0 +1,5 @@
+<Files *.py>
+  SetHandler wsgi-script
+  Options ExecCGI FollowSymLinks
+</Files>
+    
